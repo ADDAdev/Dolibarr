@@ -1,0 +1,124 @@
+[Thu Aug 27 17:12:40 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Thu Aug 27 17:12:40 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Aug 27 17:12:40 2015] [notice] Parent: Created child process 3932
+[Thu Aug 27 17:12:41 2015] [notice] Child 3932: Child process is running
+[Thu Aug 27 17:12:41 2015] [notice] Child 3932: Acquired the start mutex.
+[Thu Aug 27 17:12:41 2015] [notice] Child 3932: Starting 250 worker threads.
+[Thu Aug 27 17:12:41 2015] [notice] Child 3932: Starting thread to listen on port 80.
+[Thu Aug 27 17:12:55 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/favicon.ico
+[Thu Aug 27 17:13:08 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/favicon.ico
+[Thu Aug 27 17:14:31 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/favicon.ico, referer: http://localhost/dolibarr/install/fileconf.php?selectlang=auto
+[Fri Aug 28 14:35:25 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 28 14:35:27 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Fri Aug 28 14:35:27 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Fri Aug 28 14:35:28 2015] [notice] Parent: Created child process 2432
+[Fri Aug 28 14:35:28 2015] [notice] Child 2432: Child process is running
+[Fri Aug 28 14:35:28 2015] [notice] Child 2432: Acquired the start mutex.
+[Fri Aug 28 14:35:28 2015] [notice] Child 2432: Starting 250 worker threads.
+[Fri Aug 28 14:35:28 2015] [notice] Child 2432: Starting thread to listen on port 80.
+[Tue Sep 01 13:09:50 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 01 13:09:52 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Tue Sep 01 13:09:52 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Tue Sep 01 13:09:52 2015] [notice] Parent: Created child process 2456
+[Tue Sep 01 13:09:53 2015] [notice] Child 2456: Child process is running
+[Tue Sep 01 13:09:53 2015] [notice] Child 2456: Acquired the start mutex.
+[Tue Sep 01 13:09:53 2015] [notice] Child 2456: Starting 250 worker threads.
+[Tue Sep 01 13:09:53 2015] [notice] Child 2456: Starting thread to listen on port 80.
+[Tue Sep 08 10:09:21 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 08 10:09:22 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Tue Sep 08 10:09:22 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Tue Sep 08 10:09:22 2015] [notice] Parent: Created child process 2060
+[Tue Sep 08 10:09:22 2015] [notice] Child 2060: Child process is running
+[Tue Sep 08 10:09:22 2015] [notice] Child 2060: Acquired the start mutex.
+[Tue Sep 08 10:09:22 2015] [notice] Child 2060: Starting 250 worker threads.
+[Tue Sep 08 10:09:22 2015] [notice] Child 2060: Starting thread to listen on port 80.
+[Tue Sep 08 16:25:34 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 08 16:25:39 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Tue Sep 08 16:25:39 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Tue Sep 08 16:25:39 2015] [notice] Parent: Created child process 2332
+[Tue Sep 08 16:25:40 2015] [notice] Child 2332: Child process is running
+[Tue Sep 08 16:25:40 2015] [notice] Child 2332: Acquired the start mutex.
+[Tue Sep 08 16:25:40 2015] [notice] Child 2332: Starting 250 worker threads.
+[Tue Sep 08 16:25:40 2015] [notice] Child 2332: Starting thread to listen on port 80.
+[Wed Sep 09 17:49:54 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 09 17:49:58 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Wed Sep 09 17:49:58 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Wed Sep 09 17:49:58 2015] [notice] Parent: Created child process 2208
+[Wed Sep 09 17:49:58 2015] [notice] Child 2208: Child process is running
+[Wed Sep 09 17:49:58 2015] [notice] Child 2208: Acquired the start mutex.
+[Wed Sep 09 17:49:58 2015] [notice] Child 2208: Starting 250 worker threads.
+[Wed Sep 09 17:49:58 2015] [notice] Child 2208: Starting thread to listen on port 80.
+[Thu Sep 10 18:42:19 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Sep 10 18:42:19 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Thu Sep 10 18:42:19 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Sep 10 18:42:19 2015] [notice] Parent: Created child process 656
+[Thu Sep 10 18:42:19 2015] [notice] Child 656: Child process is running
+[Thu Sep 10 18:42:19 2015] [notice] Child 656: Acquired the start mutex.
+[Thu Sep 10 18:42:19 2015] [notice] Child 656: Starting 250 worker threads.
+[Thu Sep 10 18:42:19 2015] [notice] Child 656: Starting thread to listen on port 80.
+[Thu Sep 10 19:54:34 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/browserconfig.xml
+[Thu Sep 17 13:50:46 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/difarvet
+[Thu Sep 17 13:50:46 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/favicon.ico, referer: http://localhost/difarvet
+[Fri Sep 18 13:01:38 2015] [error] [client 148.239.50.21] client denied by server configuration: C:/dolibarr/www/
+[Fri Sep 18 13:01:38 2015] [error] [client 148.239.50.21] client denied by server configuration: C:/dolibarr/www/favicon.ico, referer: http://148.239.50.22/
+[Fri Sep 18 13:02:00 2015] [error] [client 148.239.50.99] client denied by server configuration: C:/dolibarr/www/
+[Fri Sep 18 13:02:00 2015] [error] [client 148.239.50.99] client denied by server configuration: C:/dolibarr/www/favicon.ico, referer: http://148.239.50.22/
+[Mon Sep 21 09:17:40 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 21 09:17:40 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Mon Sep 21 09:17:40 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Mon Sep 21 09:17:40 2015] [notice] Parent: Created child process 1548
+[Mon Sep 21 09:17:40 2015] [notice] Child 1548: Child process is running
+[Mon Sep 21 09:17:40 2015] [notice] Child 1548: Acquired the start mutex.
+[Mon Sep 21 09:17:40 2015] [notice] Child 1548: Starting 250 worker threads.
+[Mon Sep 21 09:17:40 2015] [notice] Child 1548: Starting thread to listen on port 80.
+[Tue Sep 22 10:20:22 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 22 10:20:22 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Tue Sep 22 10:20:22 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Tue Sep 22 10:20:22 2015] [notice] Parent: Created child process 1636
+[Tue Sep 22 10:20:22 2015] [notice] Child 1636: Child process is running
+[Tue Sep 22 10:20:22 2015] [notice] Child 1636: Acquired the start mutex.
+[Tue Sep 22 10:20:22 2015] [notice] Child 1636: Starting 250 worker threads.
+[Tue Sep 22 10:20:22 2015] [notice] Child 1636: Starting thread to listen on port 80.
+[Wed Sep 23 09:57:54 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 23 09:57:54 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Wed Sep 23 09:57:54 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Wed Sep 23 09:57:54 2015] [notice] Parent: Created child process 1452
+[Wed Sep 23 09:57:54 2015] [notice] Child 1452: Child process is running
+[Wed Sep 23 09:57:54 2015] [notice] Child 1452: Acquired the start mutex.
+[Wed Sep 23 09:57:54 2015] [notice] Child 1452: Starting 250 worker threads.
+[Wed Sep 23 09:57:54 2015] [notice] Child 1452: Starting thread to listen on port 80.
+[Thu Oct 01 11:08:27 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/browserconfig.xml
+[Wed Oct 07 11:04:34 2015] [error] [client 148.239.50.173] client denied by server configuration: C:/dolibarr/www/
+[Wed Oct 07 11:04:34 2015] [error] [client 148.239.50.173] client denied by server configuration: C:/dolibarr/www/favicon.ico, referer: http://148.239.50.169/
+[Wed Oct 07 11:04:45 2015] [error] [client 148.239.50.173] client denied by server configuration: C:/dolibarr/www/
+[Wed Oct 07 11:12:28 2015] [error] [client 148.239.50.162] client denied by server configuration: C:/dolibarr/www/
+[Wed Oct 07 11:12:28 2015] [error] [client 148.239.50.162] client denied by server configuration: C:/dolibarr/www/favicon.ico, referer: http://148.239.50.169/
+[Thu Oct 15 09:56:56 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 15 09:56:58 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Thu Oct 15 09:56:58 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Oct 15 09:56:58 2015] [notice] Parent: Created child process 1084
+[Thu Oct 15 09:56:58 2015] [notice] Child 1084: Child process is running
+[Thu Oct 15 09:56:58 2015] [notice] Child 1084: Acquired the start mutex.
+[Thu Oct 15 09:56:58 2015] [notice] Child 1084: Starting 250 worker threads.
+[Thu Oct 15 09:56:58 2015] [notice] Child 1084: Starting thread to listen on port 80.
+[Mon Oct 26 10:14:16 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/pagetop.php' not found or unable to stat, referer: http://localhost/dolibarr/admin/modules.php?mode=common
+[Mon Oct 26 10:14:16 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/favicon.ico, referer: http://localhost/dolibarr/prueba/pagetop.php?idmenu=23&mainmenu=prueba&leftmenu=
+[Mon Oct 26 11:15:39 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/pagetop.php' not found or unable to stat, referer: http://localhost/dolibarr/societe/index.php?mainmenu=companies&leftmenu=
+[Mon Oct 26 12:16:14 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/Loteria .php' not found or unable to stat, referer: http://localhost/dolibarr/prueba/pagetop.php?idmenu=23&mainmenu=prueba&leftmenu=
+[Mon Oct 26 12:16:22 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/Loteria .php' not found or unable to stat, referer: http://localhost/dolibarr/prueba/pagetop.php?idmenu=23&mainmenu=prueba&leftmenu=
+[Mon Oct 26 12:45:07 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/dolibarr/htdocs/prueba/admin, referer: http://localhost/dolibarr/admin/modules.php?mainmenu=home
+[Mon Oct 26 12:46:21 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/pehp.php' not found or unable to stat, referer: http://localhost/dolibarr/admin/modules.php?mode=common
+[Mon Oct 26 12:46:59 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/pehp.php' not found or unable to stat, referer: http://localhost/dolibarr/admin/modules.php?mode=common
+[Mon Oct 26 12:47:06 2015] [error] [client 127.0.0.1] script 'C:/dolibarr/www/dolibarr/htdocs/prueba/pehp.php' not found or unable to stat, referer: http://localhost/dolibarr/admin/modules.php?mode=common
+[Wed Oct 28 10:00:07 2015] [warn] pid file C:/dolibarr/bin/apache/apache2.2.11/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 28 10:00:07 2015] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Wed Oct 28 10:00:07 2015] [notice] Server built: Dec 10 2008 00:10:06
+[Wed Oct 28 10:00:07 2015] [notice] Parent: Created child process 2968
+[Wed Oct 28 10:00:08 2015] [notice] Child 2968: Child process is running
+[Wed Oct 28 10:00:08 2015] [notice] Child 2968: Acquired the start mutex.
+[Wed Oct 28 10:00:08 2015] [notice] Child 2968: Starting 250 worker threads.
+[Wed Oct 28 10:00:08 2015] [notice] Child 2968: Starting thread to listen on port 80.
+[Wed Oct 28 10:59:44 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/dolibarr/societe
+[Wed Oct 28 10:59:44 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/favicon.ico, referer: http://localhost/Dolibarr/societe/index.php?mainmenu=companies&leftmenu=
+[Wed Oct 28 10:59:53 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/Dolibar
+[Wed Oct 28 11:00:11 2015] [error] [client 127.0.0.1] File does not exist: C:/dolibarr/www/Dolibar
